@@ -4,7 +4,7 @@
 Documentation refactoring is the process of restructuring existing docomentation without changing its external behavior.
 - Refactoring is intended to improve nonfunctional attributes of the software.
 - Advantages include improved code readability and reduced complexity; *these can improve source-code maintainability and create a more expressive internal architecture or object model to improve extensibility.*
-- New text.
+- New text for conflict.
 
 | Benefits of project | Techniques                       |
 |:--------------------|:---------------------------------|
