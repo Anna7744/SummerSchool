@@ -25,8 +25,8 @@ Documentation refactoring is the process of restructuring existing docomentation
     
 
     GET https://api.example.com/products/{project_id} 
-    Headers:
-Authorization: Basic <your_authorization_basic_key>
+    Headers: 
+    Authorization: Basic <your_authorization_basic_key>
 
 ### ПАРАМЕТРЫ ЗАПРОСА
 **project_id**
