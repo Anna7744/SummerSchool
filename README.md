@@ -44,8 +44,8 @@ ID проекта
 
 ### ПАРАМЕТРЫ ОТВЕТА
 
-**Product**
+**Product1**
 
     _string_
 
-ID продукта
+Статус подключения продукта Product1. Может принимать значение _connected, diconnected_.
