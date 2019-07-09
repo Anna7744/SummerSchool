@@ -17,4 +17,35 @@ Documentation refactoring is the process of restructuring existing docomentation
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
+## СПРАВОЧНИК API
 
+Метод АРI позволяет получить список продуктов по ID проекта и статусы подключения. 
+
+## HTTP-ЗАПРОС
+    
+
+    GET https://api.example.com/products/{project_id} 
+    Headers:
+Authorization: Basic <your_authorization_basic_key>
+
+### ПАРАМЕТРЫ ЗАПРОСА
+**project_id**
+
+    _integer_
+    
+ID проекта
+
+## HTTP-ОТВЕТ
+    
+    {
+          Product1:connected,
+          Product2:disconnected
+     }
+
+### ПАРАМЕТРЫ ОТВЕТА
+
+**Product**
+
+    _string_
+
+ID продукта
