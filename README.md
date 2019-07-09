@@ -19,7 +19,7 @@ Documentation refactoring is the process of restructuring existing docomentation
 
 ## СПРАВОЧНИК API
 
-Метод АРI позволяет получить список продуктов по ID проекта и статусы подключения. 
+Метод АРI позволяет получить список продуктов по ID проекта и статусы подключения продуктов. 
 
 ## HTTP-ЗАПРОС
     
